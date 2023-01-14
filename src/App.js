@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ParticlesBg from 'particles-bg'
 import ReactGA from "react-ga";
 import $ from "jquery";
 import "./App.css";
@@ -8,6 +9,17 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
+
+class Example extends Component {
+  render () {
+    return (
+      <>
+        <div>...</div>
+        <ParticlesBg type="circle" bg={true} />
+      </>
+    )
+  }
+}
 
 class App extends Component {
   constructor(props) {
