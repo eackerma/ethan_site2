@@ -15,7 +15,7 @@ class Example extends Component {
     return (
       <>
         <div>...</div>
-        <ParticlesBg color="#39FF14" num={10} type="cobweb" bg={true} />
+        <ParticlesBg color="#39FF14" num={10} type="color" bg={true} />
       </>
     )
   }
