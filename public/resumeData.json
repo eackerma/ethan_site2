@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Ethan Ackerman",
-    "description":"I am a sound engineer, GIS analyst and teacher based in Guanjuato City",
+    "description":"Sound engineer, GIS analyst and English teacher based in Guanjuato City",
     "image":"profilepic.jpg",
-    "bio":"Graduated from Macalester College Class of 2020 with a double major in Chinese and Geography. Previous exerience as a private sector consultant in the legal Cannabis industry and working in the public sector with the Oregon State Marine Board.",
+    "bio":"I graduated from Macalester College Class in 2020 with a double major in Chinese and Geography. After graduation worked at Oregon State Marine Board and in the Cannabis industry as a sales and legal consultant. In my free time, I enjoy teaching kayaking and paddling. Currently I enjoy trail running and hiking near Guanajuato City in Mexico.",
     "contactmessage":"If you are interested in working together you can contact me below",
     "email": "ackermanethan@hotmail.com",
     "phone": "503-954-4885",
@@ -25,7 +25,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am experienced creating maps and conducting geospatial solution using ESRI and open, sound engineer and online english teacher",
+    "skillmessage":"Maps and conducting geospatial analysis using ESRI and QGIS, sound engineer and online english teacher",
     "education":[
       {
         "school":"Macalester College?",
@@ -39,13 +39,13 @@
         "company":"Nugz Farms",
         "title":"Consultant",
         "years":"Jan 2022 - Nov 2022",
-        "description":"Cannabis sales and digital marketing consultant. Relationship building with over 100 clients in a heavily flooded market in Oregon. Created digital advertisements to promote products, digital content creation and photogrpahy to boost sales of Nugz farms. "
+        "description":"Cannabis sales, and legal research on regulations for legal cannabis. Relationship building with over 100 clients in a heavily flooded market in Oregon. Created digital advertisements to promote products, digital content creation and photography to boost sales of Nugz farms. "
       },
       {
         "company":"Shiatsu Center",
         "title":"Intern",
         "years":"Dec 2021 - Nov 2022",
-        "description":"Studied under a certifed and profesional Shiatsu pro. Administrative work and working hands on with clients with upper back and shoulder pain."
+        "description":"Studied under a certified and professional Shiatsu masseuse. Administrative work and working hands on with clients with upper back and shoulder pain."
       },
       {
         "company":"Portland Kayak Company",
@@ -90,7 +90,7 @@
       },
       {
         "name":"Communications",
-        "level":"10"
+        "level":"90"
       },
       {
         "name":"JAVA",
