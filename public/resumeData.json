@@ -1,16 +1,15 @@
 {
   "main": {
     "name":"Ethan Ackerman",
-    "description":"Sound engineer, GIS analyst and English teacher based in Guanjuato City",
+    "description":"Searching for opportunities in audio and music production, teaching and cartography",
     "image":"profilepic.jpg",
-    "bio":"I graduated from Macalester College Class in 2020 with a double major in Chinese and Geography. After graduation worked at Oregon State Marine Board and in the Cannabis industry as a sales and legal consultant. In my free time, I enjoy teaching kayaking and paddling. Currently I enjoy trail running and hiking near Guanajuato City in Mexico.",
+    "bio":"I am a multi disciplined graduated from Macalester College Class in 2020 with a double major in Chinese and Geography. I have experience teaching and creating bilingual curriculums online and in person for students improving their English language skills.",
     "contactmessage":"If you are interested in working together you can contact me below",
     "email": "ackermanethan@hotmail.com",
     "phone": "503-954-4885",
     "github":"https://github.com/eackerma",
     "project":"https://www.youtube.com/channel/UC0yvd_xmhDiNgVAFx3wXPlg?app=desktop",
-    "address":{
-    },
+    "address":{},
     "social":[
       {
         "name":"facebook",
@@ -28,7 +27,7 @@
     "skillmessage":"Maps and conducting geospatial analysis using ESRI and QGIS, sound engineer and online english teacher",
     "education":[
       {
-        "school":"Macalester College?",
+        "school":"Macalester College",
         "degree":"Chinese and Geography",
         "graduated":"May 2020",
         "description":"Studied Human Geography combined with GIS to analyze complex geospatial problems such as food deserts, famines, public health and global supply chains."
@@ -36,10 +35,10 @@
     ],
     "work":[
       {
-        "company":"Nugz Farms",
-        "title":"Consultant",
-        "years":"Jan 2022 - Nov 2022",
-        "description":"Cannabis sales, and legal research on regulations for legal cannabis. Relationship building with over 100 clients in a heavily flooded market in Oregon. Created digital advertisements to promote products, digital content creation and photography to boost sales of Nugz farms. "
+        "company":"Private Online and In-Person Tutor",
+        "title":"Tutor",
+        "years":"Dec 2020 - Aug 2022",
+        "description":"Virtual English teacher through Skype for Native Chinese speakers in Taiwan, China, Canada and the US taking the TOFEL and IELTS - usually IELTS 4 to IELTS 8. Designed dozens of bilingual lessons and syllabi."
       },
       {
         "company":"Shiatsu Center",
@@ -89,10 +88,6 @@
         "level":"75%"
       },
       {
-        "name":"Communications",
-        "level":"90"
-      },
-      {
         "name":"JAVA",
         "level":"45%"
       }
@@ -101,76 +96,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Meandering Minneapolis",
+        "category":"Cultural Atlas Production",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.flipsnack.com/macalester/meanderingminneapolis/full-view.html"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Project 51",
+        "category":"Music",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://open.spotify.com/playlist/6z58JuX734GIFqRWE5thBN?si=28a14821e6354335"
       }
     ]
   }
